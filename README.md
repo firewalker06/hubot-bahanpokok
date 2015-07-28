@@ -8,7 +8,7 @@ See [`src/hubot-bahanpokok.coffee`](src/hubot-bahanpokok.coffee) for full docume
 
 In hubot project repo, run:
 
-`npm install hubot-bahanpokok --save`
+`npm install firewalker06/hubot-bahanpokok --save`
 
 Then add **hubot-bahanpokok** to your `external-scripts.json`:
 
