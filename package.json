@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-bahanpokok",
+  "name": "hubot-bahanpokok",
   "description": "A hubot script that tells you ingredient prices in cities in Indonesia using data from data.blankon.id",
   "version": "0.0.0",
   "author": "Didik Wicaksono <didik.wicaksono@gmail.com>",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hubot-bahanpokok.git"
+    "url": "git://github.com/hubot-scripts/hubot-bahanpokok.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hubot-bahanpokok/issues"
+    "url": "https://github.com/hubot-scripts/hubot-bahanpokok/issues"
   },
 
   "dependencies": {
