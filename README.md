@@ -20,8 +20,9 @@ Then add **hubot-bahanpokok** to your `external-scripts.json`:
 
 ```
 user1>> hubot harga bahan pokok di Bandung
-hubot>> harga bahan pokok di Bandung
 ```
+
+![sample result](https://cloud.githubusercontent.com/assets/157515/8946502/0544fc46-35bb-11e5-9719-6213f37919ef.png)
 
 ## Thanks to
 
