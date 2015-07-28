@@ -6,10 +6,11 @@
 #   hubot tampilkan kota - <display list of available cities to query to>
 #
 # Notes:
-#   <optional notes required for the script>
+#   API bahanpokok an Open Data that is provided by https://www.blankonlinux.or.id/
+#   To contribute to API, visit https://github.com/data-blankon-id/api-bahanpokok
 #
 # Author:
-#   Didik Wicaksono[@<org>]
+#   firewalker06
 
 module.exports = (robot) ->
   robot.respond /harga bahan(\spokok\s)?di (.*)/, (msg) ->
